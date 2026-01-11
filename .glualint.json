@@ -42,5 +42,6 @@
   "prettyprint_assumeOperatorAssociativity": true,
   "prettyprint_indentation": "\t",
 
-  "log_format": "auto"
+  "log_format": "github"
 }
+
