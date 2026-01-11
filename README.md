@@ -1,0 +1,2 @@
+# glualint
+personal glualint config
